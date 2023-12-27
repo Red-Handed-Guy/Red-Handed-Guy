@@ -1,12 +1,12 @@
 <div align="center"> <img src="https://www.horizont.com.hr/posao/frontend-developer.gif" alt="Red-Handed-Guy" width="600" height="300" /> </div>
 <h1 align="center">Hi 👋, I'm Kirill Krasnorutskiy</h1>
-<h3 align="center">An beginner frontend developer.</h3>
+<h3 align="center">Beginner frontend developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Red-Handed-Guy&label=Profile%20views&color=0e75b6&style=flat" alt="Red-Handed-Guy" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 <div align="center"> 
-  <p align="left">🌱 I’m currently learning <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&logo=TypeScript&logoColor=%23fff"></p>
-  <p align="left">📫 How to reach me <strong>KrasnorutskiyKirill@yandex.ru</strong></p>
-  <h3 align="left">Connect with me:</h3>
+  <p align="left">🌱 I’m currently learning: <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&logo=TypeScript&logoColor=%23fff"></p>
+  <h3 align="left">Contact me:</h3>
+  <p align="left"><strong>KrasnorutskiyKirill@yandex.ru</strong></p>
   <p align="left">
     <a href="https://t.me/Red_Handed_Guy" target="_blank" rel="noreferrer">
       <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%2327A3E3?style=flat-square&logo=telegram&logoColor=%23fff&link=https%3A%2F%2Ft.me%2FRed_Handed_Guy">
