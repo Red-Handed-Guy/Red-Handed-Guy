@@ -34,13 +34,12 @@
 </div>
 
 ## Stats
-<table align="center">
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Red-Handed-Guy&show_icons=true&locale=en&layout=compact" alt="Red-Handed-Guy" />
-    </td>
-    <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Red-Handed-Guy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Red-Handed-Guy github stats" />
-    </td>
-  </tr>
-</table>
+Individual GitHub statistics do not include activity within organizations, so they do not provide a complete picture
+
+<div align="center">
+  
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Red-Handed-Guy)](https://github.com/Red-Handed-Guy/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Handed-Guy&layout=donut)](https://github.com/Red-Handed-Guy/github-readme-stats) |
+| :---------: | :---------: |
+
+</div>
+
