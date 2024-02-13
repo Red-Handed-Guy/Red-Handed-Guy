@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://www.horizont.com.hr/posao/frontend-developer.gif" alt="Red-Handed-Guy" width="600" height="300" /> </div>
 <h1 align="center">Hi 👋, I'm Kirill Krasnorutskiy</h1>
-<h3 align="center">Frontend developer.</h3>
+<h3 align="center">Frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Red-Handed-Guy&label=Profile%20views&color=0e75b6&style=flat" alt="Red-Handed-Guy" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 <div align="center"> 
